@@ -31,4 +31,4 @@ pip install pandas numpy matplotlib seaborn pmdarima darts tensorflow keras scik
 ```
 
 ## Acknowledgements
-This study was supported by faculty and peers at Liverpool John Moores University. Special thanks to my thesis advisor [Advisor’s Name] for guidance and insights throughout this research.
+This study was supported by faculty and peers at Liverpool John Moores University. Special thanks to my thesis advisor Shah Azam for guidance and insights throughout this research.
