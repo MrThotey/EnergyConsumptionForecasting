@@ -14,7 +14,7 @@ The thesis conducts a detailed analysis using machine learning models such as SA
 ## How to Use This Repository
 1. Clone the repository using Git or download it as a ZIP file.
 2. Navigate to the `Code/` directory to view the Jupyter Notebook.
-3. The dataset used for the analysis is located in the `Data/` directory.
+3. The dataset used for the analysis is located in the `Data/` directory. This repository includes only a partial dataset due to size limitations. For complete data, please refer to the source link provided in the Data section below.
 4. Results and visualizations can be found in the PDF within the `Results/` directory.
 
 ## Data
